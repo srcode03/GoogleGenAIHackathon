@@ -7,19 +7,7 @@
 - Developed a Streamlit web page to display the classification results.
 - Deployed the model on a Streamlit website due to the expiration of AWS free tier.
 
-### Scope of Improvement
-- Deployment:
-  - Consider deploying the application on AWS EC2 VM.
-  - Implement Docker to build the container and utilize AWS ECR to store the private Docker image.
-  - Integrate GitHub Actions for continuous integration and continuous deployment (CI/CD) pipeline.
 
-- Model Enhancement:
-  - Improve text classification model accuracy by fine-tuning on a custom dataset.
-  - Utilize advanced prompt templates for the Gemini-Pro model to achieve desired outputs.
-
-### Future Work
-- Connect all components to develop an industry-grade application.
-- Explore further optimizations and enhancements to the models and deployment process.
 
 
 
@@ -28,7 +16,7 @@
 
 ## Sentiment Analysis Report
 
-**Date: 21-04-2024**
+**Date: 2-10-2024**
 
 **Dataset Overview:**
 
